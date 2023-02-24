@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-with-css-and-mobile-view-1Y4RFsf5zx)
 - Live Site URL: [Click here](https://anbere.github.io/product-preview-card-component/)
 
 ## My process
