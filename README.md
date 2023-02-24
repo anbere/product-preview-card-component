@@ -14,12 +14,11 @@ Users should be able to:
 ### Screenshot
 
 ![desktop](images/preview-card-desktop.png)
-![mobile](images/preview-card-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://your-solution-url.com)
+- Live Site URL: [Click here](https://anbere.github.io/product-preview-card-component/)
 
 ## My process
 
